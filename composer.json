@@ -1,0 +1,12 @@
+{
+    "name": "ukatama/beniimo-trpg",
+    "require": {
+        "cakephp/cakephp": "2.7.8"
+    },
+    "authors": [
+        {
+            "name": "ukatama",
+            "email": "dev.ukatama@gmail.com"
+        }
+    ]
+}

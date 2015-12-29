@@ -1,2 +1,4 @@
 .hg
 /Config/database.php
+
+/vendor/
