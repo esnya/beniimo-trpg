@@ -1,0 +1,4 @@
+syntax: glob
+tmp/*
+Plugin/TwitterBootstrap
+Plugin/DebugKit
