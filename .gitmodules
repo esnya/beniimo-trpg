@@ -1,0 +1,24 @@
+[submodule "Locale"]
+    path = Locale
+    url = https://github.com/ukatama/beniimo-trpg-locale.git
+[submodule "Plugin/AjaxImage"]
+    path = Plugin/AjaxImage
+    url = https://github.com/ukatama/cakephp2-ajax-image.git
+[submodule "Plugin/InlineForm"]
+    path = Plugin/InlineForm
+    url = https://github.com/ukatama/cakephp2-inline-form.git
+[submodule "Plugin/InlineForm2"]
+    path = Plugin/InlineForm2
+    url = https://github.com/ukatama/cakephp2-inline-form2.git
+[submodule "Plugin/RealtimeForm"]
+    path = Plugin/RealtimeForm
+    url = https://github.com/ukatama/cakephp2-realtime-form.git
+[submodule "Plugin/Chat"]
+    path = Plugin/Chat
+    url = https://github.com/ukatama/beniimo-trpg-chat.git
+[submodule "Plugin/Kancolle"]
+    path = Plugin/Kancolle
+    url = https://github.com/ukatama/beniimo-trpg-kancolle.git
+[submodule "Plugin/SwordWorld2"]
+    path = Plugin/SwordWorld2
+    url = https://github.com/ukatama/beniimo-trpg-sword-world2.git
